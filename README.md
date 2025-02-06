@@ -15,6 +15,15 @@ This repository contains a **Power BI dashboard** designed for **Revenue Analysi
 - `README.md` – Documentation explaining the project.  
 
 ## 🔧 How to Use  
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/revenue-analysis.git
+
+1. Download the `.pbix` file.
+2. Open with **Microsoft Power BI Desktop**.
+3. Interact with filters and visuals to explore the data.
+
+## Requirements
+- Power BI Desktop (latest version recommended)
+- Data connectivity to relevant sources (if applicable)
+
+---
+
+Feel free to contribute or reach out for enhancements!
